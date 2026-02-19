@@ -36,7 +36,3 @@ The goal of this project is to:
 **Qasim Raza**
 **Nimra Ghaffar**
 
-
----
-
-⭐ If you found this proje
